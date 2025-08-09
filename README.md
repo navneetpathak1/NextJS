@@ -58,9 +58,10 @@ route.ts
 ### Data fetching
 ### async components, server components 
 
-***Route Groups=> ()***
-***Dynamic Segments/ slug=> []***
-***Catch-all Segments=> [...]***
-***Middleware in NextJs***
-***Static site generating***
-***Hydration***
+
+- ***Route Groups=> ()***
+- ***Dynamic Segments/ slug=> []***
+- ***Catch-all Segments=> [...]***
+- ***Middleware in NextJs***
+- ***Static site generating***
+- ***Hydration***
