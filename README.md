@@ -65,3 +65,24 @@ route.ts
 - ***Middleware in NextJs***
 - ***Static site generating***
 - ***Hydration***
+
+---
+
+
+## Server side rendering
+## Client side rendering
+## Static site generation (tRY RUNNING NPM RUN BUILD)
+
+---
+## RFC
+---
+## Client Component and Server Components
+
+---
+
+## NextAuth ```npm install next-auth```
+### why we cant do jwt + localstorage
+### useSession hooks
+### SessionProvider
+#### signIn/ signOut
+### getServerSession
