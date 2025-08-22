@@ -1,4 +1,7 @@
-# Why Next.js?
+# Why Next.js? 
+```bash
+npx create-next-app@latest
+```
 
 Next.js is a powerful React framework that bridges the gap between frontend and backend development, providing developer-friendly features and performance optimizations.
 
